@@ -1,0 +1,21 @@
+package gr.aueb.ch12;
+
+import gr.aueb.cf.ch12.model.Product;
+
+/**
+ *
+ *
+ */
+
+public class MainProduct {
+
+    public static void main(String[] args) {
+
+        Product product = new Product(1, "Oranges" ,"Yellow Oranges" , 6.99, 100, true);
+        oranges.setPrice(5.99);
+        oranges.setQuantinty(80);
+
+        System.out.println("Product name :");
+
+    }
+}
